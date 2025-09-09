@@ -44,7 +44,7 @@ Follow these steps to set up and run the automated tests locally:
    ```bash
    git clone https://github.com/r2dapps/LoginAutomation.git
    cd LoginAutomation
-````
+   ````
 
 2. **Restore dependencies:**
 
@@ -116,3 +116,4 @@ Thank you for checking out this project! Feel free to reach out if you have any 
 
 Just save this as `README.md` in your repo root, and it’s ready to go. If you want, I can help add badges or images next!
 ```
+
