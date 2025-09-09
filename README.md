@@ -112,8 +112,4 @@ Thank you for checking out this project! Feel free to reach out if you have any 
 
 ```
 
----
-
-Just save this as `README.md` in your repo root, and it’s ready to go. If you want, I can help add badges or images next!
-```
 
