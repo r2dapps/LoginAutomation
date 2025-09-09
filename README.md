@@ -111,5 +111,3 @@ GitHub: [https://github.com/r2dapps](https://github.com/r2dapps)
 Thank you for checking out this project! Feel free to reach out if you have any questions or suggestions.
 
 ```
-
-
