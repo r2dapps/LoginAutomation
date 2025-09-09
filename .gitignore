@@ -1,0 +1,12 @@
+# .gitignore for C# Selenium project
+
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+TestResults/
+*.log
+*.tmp
+*.bak
